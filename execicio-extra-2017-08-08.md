@@ -1,3 +1,5 @@
+Versões do Apache
+
 The Number One HTTP Server On The Internet
 The Apache HTTP Server Project is an effort to develop and maintain an open-source HTTP server for modern operating systems including UNIX and Windows. The goal of this project is to provide a secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards.
 
@@ -22,6 +24,7 @@ Download | ChangeLog for 2.2.34 | Complete ChangeLog for 2.2
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
+Versões do NGINX
 
 
 Changes with nginx 1.13.4                                        08 Aug 2017
